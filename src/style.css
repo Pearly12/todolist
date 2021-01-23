@@ -1,0 +1,21 @@
+#add-item-form{
+    border: 1px solid black;
+    text-align: center;
+    display: none;
+}
+
+#add-item-form div{
+    margin: 10px;
+}
+
+#add-item-form.active{
+    display: block;
+}
+
+#toDo-item{
+    display: none;
+}
+
+#toDo-item.active{
+    display: block;
+}
